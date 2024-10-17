@@ -490,6 +490,13 @@
     "tokenCategory": "Other"
   },
   {
+    "tokenAddress": "0xe36072dd051ce26261bf50cd966311cab62c596e",
+    "tokenName": "Thruster",
+    "tokenSymbol": "THRUST",
+    "tokenDecimals": 18,
+    "tokenCategory": "DeFi"
+  },
+  {
     "tokenAddress": "0xe4796ccb6bb5de2290c417ac337f2b66ca2e770e",
     "tokenName": "Staked FRAX",
     "tokenSymbol": "sFRAX",
@@ -521,7 +528,7 @@
     "tokenAddress": "0xec73284e4ec9bcea1a7dddf489eaa324c3f7dd31",
     "tokenName": "HYPER",
     "tokenSymbol": "HYPER",
-    "tokenDecimals": 8,
+    "tokenDecimals": 18,
     "tokenCategory": "DeFi"
   },
   {
